@@ -1,0 +1,6 @@
+Scenario,Product,Alyante_Min,Current_Qty,Expected_Result,Actual_Result,Status
+1,Happy Cat 10kg,15,12,Alert sent,Alert sent,✓ PASS
+2,Dog Food 5kg,30,38,No alert,No alert,✓ PASS
+3,Treats,50,47,Alert sent,Alert sent,✓ PASS
+4,Fish Food,25,25,No alert,No alert,✓ PASS
+5,Premium Mix,40,39,Alert sent,Alert sent,✓ PASS
